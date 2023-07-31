@@ -1,0 +1,54 @@
+2023-07-31 12:10:35,042 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-31 12:11:28,118 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:BUB_Demo:0.0.1-SNAPSHOT @ C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\pom.xml.
+2023-07-31 12:11:31,325 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:11:31,325 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 12:11:31,331 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:11:31,331 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 12:16:42,329 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:16:42,330 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 12:16:42,334 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:16:42,335 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 12:18:11,321 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:18:11,321 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 12:18:11,325 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:18:11,325 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 12:18:24,735 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:18:24,736 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 12:18:24,740 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:18:24,741 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 12:25:38,498 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:25:38,498 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 12:25:38,501 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:25:38,501 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 12:26:06,138 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:26:06,138 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 12:26:06,142 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:26:06,142 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 12:29:13,708 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:29:13,708 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 12:29:13,713 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:29:13,713 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 12:33:15,939 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:33:15,940 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 12:33:15,943 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 12:33:15,943 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 13:26:06,096 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-31 13:26:07,477 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test:BUB_Demo:0.0.1-SNAPSHOT @ C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\pom.xml.
+2023-07-31 13:26:09,158 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BUB_Demo/src/main/java
+2023-07-31 13:26:09,159 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BUB_Demo/src/main/resources
+2023-07-31 13:26:09,162 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BUB_Demo/src/test/java
+2023-07-31 13:26:09,163 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BUB_Demo/src/test/resources
+2023-07-31 13:26:10,151 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-07-31 13:26:10,881 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 13:26:10,883 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 13:26:10,890 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 13:26:10,891 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 15:23:25,916 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-31 15:24:27,855 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 15:24:27,865 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 15:24:27,876 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 15:24:27,876 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
+2023-07-31 15:24:43,725 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 15:24:43,726 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\main\resources
+2023-07-31 15:24:43,730 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-31 15:24:43,730 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PraveenKuri\git\BUB_Automation\BUB_Demo\src\test\resources
